@@ -1,1 +1,13 @@
 # OnlineShopping
+
+ Online Shopping-Management-System
+
+GIC_AMJ21_FS_JAVA_1
+
+A.Yamini                PL0621097
+S.Nasrin Banu           PL0621103
+M.Sivaranjani           PL0621104
+J.Silvia                PL0621108
+Chava.Sai Hemantha      PL0621123
+K.Divya                 PL0621112
+Yegi Varaha Akhil       PL0621117
